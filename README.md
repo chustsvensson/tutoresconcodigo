@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chustsvensson
-- 👀 I’m interested in data science and coding
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in data science and python coding, maths and physics
+- 🌱 This repository is related to my web https://tutoresconcodigo.com
 
 
 <!---
